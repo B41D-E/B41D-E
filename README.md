@@ -2,7 +2,7 @@
 
 I'm currently working on gaining knowledge from a beginner start point.
 
-i'm looking for beginner exercises to help with becoming proficient on GitHub.
+I'm looking for beginner exercises to help with becoming proficient on GitHub.
 
 <!--
 **B41D-E/B41D-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
